@@ -1,4 +1,5 @@
 import utilities from './utilsList'
+import './polyfills.js'
 
 export default (props) => {
   let className = ''
